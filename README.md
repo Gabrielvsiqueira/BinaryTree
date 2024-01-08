@@ -1,0 +1,1 @@
+script escrito em C para descrever uma AVL e seu comportamento perante operações. O script tem como objetivo calcular o fator de balanceamento(FB) da árvore com operações de busca, inserção e remoção. Levando o fator de um AVL estar sempre balanceada.
